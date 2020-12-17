@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fanikauppa/precache-manifest.0d6b58a4fdfd9c6fb42424a6f48bd285.js"
+  "/fanikauppa/precache-manifest.2babcbf678aec870af1b200d0b8c1320.js"
 );
 
 self.addEventListener('message', (event) => {
